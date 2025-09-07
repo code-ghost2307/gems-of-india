@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Taj Mahal",
+    "origin": "Built by Shah Jahan in memory of Mumtaz Mahal",
+    "built_time": "1632-1648",
+    "location": "Agra, Uttar Pradesh",
+    "history": "The Taj Mahal is a UNESCO World Heritage Site and one of the Seven Wonders of the World. It is made of white marble and symbolizes eternal love.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/1200px-Taj_Mahal_%28Edited%29.jpeg"
+  },
+  {
+    "name": "Qutub Minar",
+    "origin": "Commissioned by Qutb-ud-din Aibak",
+    "built_time": "1193",
+    "location": "Delhi",
+    "history": "The Qutub Minar is the tallest brick minaret in the world. It represents Indo-Islamic architecture and is a UNESCO World Heritage Site.",
+    "image":"https://cdn.firstcry.com/education/2022/06/30175207/Essay-on-Qutub-Minar.jpg"
+    
+  },
+  {
+    "name": "Charminar",
+    "origin": "Built by Muhammad Quli Qutb Shah",
+    "built_time": "1591",
+    "location": "Hyderabad, Telangana",
+    "history": "Charminar is a mosque and monument with four grand minarets. It is the most recognized structure of Hyderabad.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9_Ry3LIxxhN6adv9ZsdkrwM9qtOvXmaLoOX9wW5XrAwGWTatoCuofagCDaLFcQtkeBRMFK_Q4BYNY_CvDO9lT64nAfSVD8YnKpOZsCatN8WizfjhN02XIf9f8gn_ETByYpsd0eZMS-RNm/w1200-h630-p-k-no-nu/01+Charminar+Hyderabad+India.jpg"
+  }
+]
+ 
